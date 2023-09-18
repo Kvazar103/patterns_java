@@ -1,4 +1,4 @@
-package Singleton;
+package Singleton_Pattern;
 
 public class Singleton {
    // Приватне статичне поле для зберігання єдиного екземпляра
