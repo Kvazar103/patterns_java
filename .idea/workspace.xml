@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2cded02c-48df-4431-a356-f242486ebecd" name="Changes" comment="init">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Strategy_pattern/ArraySorter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Strategy_pattern/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Strategy_pattern/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Strategy_pattern/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Strategy_pattern/SortingStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Observer_pattern/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Observer_pattern/Publisher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Observer_pattern/Subscriber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Observer_pattern/YoutubeChannel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Observer_pattern/YoutubeUser.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,8 +48,8 @@
   }
 }]]></component>
   <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Strategy_pattern.Main" />
+    <configuration name="Observer_pattern.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Observer_pattern.Main" />
       <module name="patterns_java" />
       <extension name="coverage">
         <pattern>
@@ -63,7 +63,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Observer_pattern.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -76,7 +76,7 @@
       <option name="presentableId" value="Default" />
       <updated>1694941944449</updated>
       <workItem from="1694941946706" duration="8000000" />
-      <workItem from="1695104658720" duration="10429000" />
+      <workItem from="1695104658720" duration="15657000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1695038400934</created>
@@ -92,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1695202281827</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="init">
+      <created>1695219203984</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1695219203984</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
