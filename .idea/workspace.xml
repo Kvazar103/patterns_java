@@ -5,11 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2cded02c-48df-4431-a356-f242486ebecd" name="Changes" comment="init">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Observer_pattern/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Observer_pattern/Publisher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Observer_pattern/Subscriber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Observer_pattern/YoutubeChannel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Observer_pattern/YoutubeUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Facade_pattern/EmailDeliveryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Facade_pattern/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Facade_pattern/MessageTextService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Facade_pattern/MessageTitleService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Facade_pattern/NotificationFacade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Facade_pattern/SendingTimeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Facade_pattern/SmsDeliveryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Facade_pattern/UserService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,9 +50,14 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Facade_pattern" />
+    </key>
+  </component>
   <component name="RunManager">
-    <configuration name="Observer_pattern.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Observer_pattern.Main" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Facade_pattern.Main" />
       <module name="patterns_java" />
       <extension name="coverage">
         <pattern>
@@ -63,7 +71,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Observer_pattern.Main" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -76,7 +84,7 @@
       <option name="presentableId" value="Default" />
       <updated>1694941944449</updated>
       <workItem from="1694941946706" duration="8000000" />
-      <workItem from="1695104658720" duration="15657000" />
+      <workItem from="1695104658720" duration="24382000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1695038400934</created>
@@ -99,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1695219203984</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="init">
+      <created>1695225062436</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1695225062436</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
