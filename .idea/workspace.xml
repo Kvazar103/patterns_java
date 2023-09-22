@@ -5,14 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2cded02c-48df-4431-a356-f242486ebecd" name="Changes" comment="init">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Facade_pattern/EmailDeliveryService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Facade_pattern/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Facade_pattern/MessageTextService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Facade_pattern/MessageTitleService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Facade_pattern/NotificationFacade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Facade_pattern/SendingTimeService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Facade_pattern/SmsDeliveryService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Facade_pattern/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Bridge_pattern/BlackColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Bridge_pattern/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Bridge_pattern/GreenColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Bridge_pattern/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Bridge_pattern/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Bridge_pattern/RedColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Bridge_pattern/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Bridge_pattern/Triangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,6 +45,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
@@ -56,8 +58,8 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Facade_pattern.Main" />
+    <configuration name="Bridge_pattern.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bridge_pattern.Main" />
       <module name="patterns_java" />
       <extension name="coverage">
         <pattern>
@@ -71,7 +73,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Bridge_pattern.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -84,7 +86,7 @@
       <option name="presentableId" value="Default" />
       <updated>1694941944449</updated>
       <workItem from="1694941946706" duration="8000000" />
-      <workItem from="1695104658720" duration="24382000" />
+      <workItem from="1695104658720" duration="33654000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1695038400934</created>
@@ -114,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1695225062436</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="init">
+      <created>1695309651753</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1695309651753</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
