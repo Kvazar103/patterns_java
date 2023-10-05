@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2cded02c-48df-4431-a356-f242486ebecd" name="Changes" comment="init">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Bridge_pattern/BlackColor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Bridge_pattern/Color.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Bridge_pattern/GreenColor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Bridge_pattern/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Bridge_pattern/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Bridge_pattern/RedColor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Bridge_pattern/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Bridge_pattern/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Builder_pattern/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Builder_pattern/Pizza.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,8 +51,8 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="Bridge_pattern.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Bridge_pattern.Main" />
+    <configuration name="Builder_pattern.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Builder_pattern.Main" />
       <module name="patterns_java" />
       <extension name="coverage">
         <pattern>
@@ -73,7 +66,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Bridge_pattern.Main" />
+        <item itemvalue="Application.Builder_pattern.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -86,7 +79,7 @@
       <option name="presentableId" value="Default" />
       <updated>1694941944449</updated>
       <workItem from="1694941946706" duration="8000000" />
-      <workItem from="1695104658720" duration="33654000" />
+      <workItem from="1695104658720" duration="56209000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1695038400934</created>
@@ -123,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1695309651753</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="init">
+      <created>1695413461657</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1695413461657</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
